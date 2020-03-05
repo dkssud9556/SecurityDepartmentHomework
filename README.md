@@ -1,2 +1,13 @@
-# SecurityDepartmentHomework
-study
+# Micro Service Architecture 공부
+
+## 개요
+
+'Node.js 마이크로 서비스 코딩 공작소' 라는 책을 보면서 MSA에 대해 공부하고, 공부한 내용과 책에 나온 내용이지만 내가 몰랐던 내용을 기록할 것이다.
+
+## 목표
+
+총 5부 15장으로 이루어진 책이기 때문에 하루에 한 장씩 공부하는 것을 목표로 한다.
+
+## 참고
+
+- Node.js 마이크로 서비스 코딩 공작소 (정대천)
